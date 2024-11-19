@@ -1,0 +1,268 @@
+{
+    "Articuno": {
+        "min_cp": 1676, "max_cp": 1763, "min_cp_weather": 2095, "max_cp_weather": 2204,
+        "types": ["Ice", "Flying"], "weaknesses": ["Fire", "Electric", "Rock", "Steel"]
+    },
+    "Zapdos": {
+        "min_cp": 1902, "max_cp": 1984, "min_cp_weather": 2378, "max_cp_weather": 2480,
+        "types": ["Electric", "Flying"], "weaknesses": ["Ice", "Rock"]
+    },
+    "Moltres": {
+        "min_cp": 1870, "max_cp": 1951, "min_cp_weather": 2337, "max_cp_weather": 2439,
+        "types": ["Fire", "Flying"], "weaknesses": ["Water", "Electric", "Rock"]
+    },
+    "Mewtwo": {
+        "min_cp": 2294, "max_cp": 2387, "min_cp_weather": 2868, "max_cp_weather": 2984,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Raikou": {
+        "min_cp": 1913, "max_cp": 1972, "min_cp_weather": 2391, "max_cp_weather": 2466,
+        "types": ["Electric"], "weaknesses": ["Ground"]
+    },
+    "Entei": {
+        "min_cp": 1930, "max_cp": 1984, "min_cp_weather": 2412, "max_cp_weather": 2480,
+        "types": ["Fire"], "weaknesses": ["Water", "Ground", "Rock"]
+    },
+    "Suicune": {
+        "min_cp": 1627, "max_cp": 1704, "min_cp_weather": 2033, "max_cp_weather": 2130,
+        "types": ["Water"], "weaknesses": ["Electric", "Grass"]
+    },
+    "Regirock": {
+        "min_cp": 1703, "max_cp": 1784, "min_cp_weather": 2129, "max_cp_weather": 2230,
+        "types": ["Rock"], "weaknesses": ["Fighting", "Ground", "Steel", "Water", "Grass"]
+    },
+    "Regice": {
+        "min_cp": 1703, "max_cp": 1784, "min_cp_weather": 2129, "max_cp_weather": 2230,
+        "types": ["Ice"], "weaknesses": ["Fire", "Fighting", "Rock", "Steel"]
+    },
+    "Registeel": {
+        "min_cp": 1292, "max_cp": 1398, "min_cp_weather": 1615, "max_cp_weather": 1748,
+        "types": ["Steel"], "weaknesses": ["Fire", "Fighting", "Ground"]
+    },
+    "Latias": {
+        "min_cp": 1921, "max_cp": 2006, "min_cp_weather": 2402, "max_cp_weather": 2507,
+        "types": ["Dragon", "Psychic"], "weaknesses": ["Ice", "Bug", "Dragon", "Dark", "Fairy"]
+    },
+    "Latios": {
+        "min_cp": 2090, "max_cp": 2178, "min_cp_weather": 2613, "max_cp_weather": 2723,
+        "types": ["Dragon", "Psychic"], "weaknesses": ["Ice", "Bug", "Dragon", "Dark", "Fairy"]
+    },
+    "Kyogre": {
+        "min_cp": 2260, "max_cp": 2351, "min_cp_weather": 2825, "max_cp_weather": 2939,
+        "types": ["Water"], "weaknesses": ["Electric", "Grass"]
+    },
+    "Groudon": {
+        "min_cp": 2328, "max_cp": 2351, "min_cp_weather": 2910, "max_cp_weather": 2939,
+        "types": ["Ground"], "weaknesses": ["Water", "Ice", "Grass"]
+    },
+    "Rayquaza": {
+        "min_cp": 2102, "max_cp": 2191, "min_cp_weather": 2627, "max_cp_weather": 2739,
+        "types": ["Dragon", "Flying"], "weaknesses": ["Ice", "Dragon", "Rock", "Fairy"]
+    },
+    "Dialga": {
+        "min_cp": 2217, "max_cp": 2307, "min_cp_weather": 2771, "max_cp_weather": 2884,
+        "types": ["Steel", "Dragon"], "weaknesses": ["Fighting", "Ground"]
+    },
+    "Palkia": {
+        "min_cp": 2190, "max_cp": 2280, "min_cp_weather": 2738, "max_cp_weather": 2850,
+        "types": ["Water", "Dragon"], "weaknesses": ["Dragon", "Fairy"]
+    },
+    "Giratina (Altered Form)": {
+        "min_cp": 1848, "max_cp": 1931, "min_cp_weather": 2310, "max_cp_weather": 2414,
+        "types": ["Ghost", "Dragon"], "weaknesses": ["Ghost", "Dragon", "Dark", "Ice", "Fairy"]
+    },
+    "Giratina (Origin Form)": {
+        "min_cp": 1931, "max_cp": 2043, "min_cp_weather": 2414, "max_cp_weather": 2554,
+        "types": ["Ghost", "Dragon"], "weaknesses": ["Ghost", "Dragon", "Dark", "Ice", "Fairy"]
+    },
+    "Heatran": {
+        "min_cp": 2058, "max_cp": 2145, "min_cp_weather": 2573, "max_cp_weather": 2681,
+        "types": ["Fire", "Steel"], "weaknesses": ["Water", "Fighting", "Ground"]
+    },
+    "Cresselia": {
+        "min_cp": 1555, "max_cp": 1633, "min_cp_weather": 1944, "max_cp_weather": 2041,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Regigigas": {
+        "min_cp": 2269, "max_cp": 2364, "min_cp_weather": 2834, "max_cp_weather": 2955,
+        "types": ["Normal"], "weaknesses": ["Fighting"]
+    },
+    "Reshiram": {
+        "min_cp": 2307, "max_cp": 2396, "min_cp_weather": 2884, "max_cp_weather": 2995,
+        "types": ["Dragon", "Fire"], "weaknesses": ["Ground", "Rock", "Dragon"]
+    },
+    "Zekrom": {
+        "min_cp": 2307, "max_cp": 2396, "min_cp_weather": 2884, "max_cp_weather": 2995,
+        "types": ["Dragon", "Electric"], "weaknesses": ["Ground", "Ice", "Dragon", "Fairy"]
+    },
+    "Kyurem": {
+        "min_cp": 2022, "max_cp": 2105, "min_cp_weather": 2528, "max_cp_weather": 2631,
+        "types": ["Dragon", "Ice"], "weaknesses": ["Fighting", "Rock", "Steel", "Dragon", "Fairy"]
+    },
+    "Landorus (Incarnate Form)": {
+        "min_cp": 1990, "max_cp": 2050, "min_cp_weather": 2488, "max_cp_weather": 2563,
+        "types": ["Ground", "Flying"], "weaknesses": ["Water", "Ice"]
+    },
+    "Landorus (Therian Form)": {
+        "min_cp": 2002, "max_cp": 2081, "min_cp_weather": 2503, "max_cp_weather": 2601,
+        "types": ["Ground", "Flying"], "weaknesses": ["Water", "Ice"]
+    },
+    "Tornadus (Incarnate Form)": {
+        "min_cp": 1828, "max_cp": 1911, "min_cp_weather": 2285, "max_cp_weather": 2389,
+        "types": ["Flying"], "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    "Tornadus (Therian Form)": {
+        "min_cp": 1837, "max_cp": 1911, "min_cp_weather": 2296, "max_cp_weather": 2389,
+        "types": ["Flying"], "weaknesses": ["Electric", "Ice", "Rock"]
+    },
+    "Thundurus (Incarnate Form)": {
+        "min_cp": 1911, "max_cp": 2002, "min_cp_weather": 2389, "max_cp_weather": 2502,
+        "types": ["Electric", "Flying"], "weaknesses": ["Rock", "Ice"]
+    },
+    "Thundurus (Therian Form)": {
+        "min_cp": 1911, "max_cp": 2002, "min_cp_weather": 2389, "max_cp_weather": 2502,
+        "types": ["Electric", "Flying"], "weaknesses": ["Rock", "Ice"]
+    },
+    "Xerneas": {
+        "min_cp": 2073, "max_cp": 2160, "min_cp_weather": 2591, "max_cp_weather": 2701,
+        "types": ["Fairy"], "weaknesses": ["Steel", "Poison"]
+    },
+    "Yveltal": {
+        "min_cp": 2160, "max_cp": 2251, "min_cp_weather": 2701, "max_cp_weather": 2814,
+        "types": ["Dark", "Flying"], "weaknesses": ["Electric", "Ice", "Rock", "Fairy"]
+    },
+    "Zygarde (50% Form)": {
+        "min_cp": 2012, "max_cp": 2103, "min_cp_weather": 2515, "max_cp_weather": 2629,
+        "types": ["Dragon", "Ground"], "weaknesses": ["Ice", "Dragon", "Fairy"]
+    },
+    "Tapu Koko": {
+        "min_cp": 1730, "max_cp": 1810, "min_cp_weather": 2162, "max_cp_weather": 2263,
+        "types": ["Electric", "Fairy"], "weaknesses": ["Poison", "Ground"]
+    },
+    "Tapu Lele": {
+        "min_cp": 1916, "max_cp": 2006, "min_cp_weather": 2395, "max_cp_weather": 2507,
+        "types": ["Psychic", "Fairy"], "weaknesses": ["Ghost", "Poison", "Steel"]
+    },
+    "Tapu Bulu": {
+        "min_cp": 1855, "max_cp": 1953, "min_cp_weather": 2319, "max_cp_weather": 2441,
+        "types": ["Grass", "Fairy"], "weaknesses": ["Fire", "Flying", "Ice", "Poison", "Steel"]
+    },
+    "Tapu Fini": {
+        "min_cp": 1562, "max_cp": 1632, "min_cp_weather": 1953, "max_cp_weather": 2041,
+        "types": ["Water", "Fairy"], "weaknesses": ["Electric", "Grass", "Poison"]
+    },
+    "Zacian (Hero of Many Battles)": {
+        "min_cp": 2100, "max_cp": 2188, "min_cp_weather": 2625, "max_cp_weather": 2735,
+        "types": ["Fairy"], "weaknesses": ["Poison", "Steel"]
+    },
+    "Zacian (Crowned Sword)": {
+        "min_cp": 2188, "max_cp": 2258, "min_cp_weather": 2735, "max_cp_weather": 2822,
+        "types": ["Fairy", "Steel"], "weaknesses": ["Ground", "Fire"]
+    },
+    "Zamazenta (Hero of Many Battles)": {
+        "min_cp": 2018, "max_cp": 2102, "min_cp_weather": 2523, "max_cp_weather": 2627,
+        "types": ["Fighting"], "weaknesses": ["Flying", "Psychic", "Fairy"]
+    },
+    "Zamazenta (Crowned Shield)": {
+        "min_cp": 2102, "max_cp": 2188, "min_cp_weather": 2627, "max_cp_weather": 2735,
+        "types": ["Fighting", "Steel"], "weaknesses": ["Fighting", "Fire", "Ground"]
+    },
+    "Eternatus": {
+        "min_cp": 2087, "max_cp": 2178, "min_cp_weather": 2608, "max_cp_weather": 2723,
+        "types": ["Poison", "Dragon"], "weaknesses": ["Ice", "Ground", "Psychic", "Dragon"]
+    },
+    "Regieleki": {
+        "min_cp": 1485, "max_cp": 1568, "min_cp_weather": 1856, "max_cp_weather": 1960,
+        "types": ["Electric"], "weaknesses": ["Ground"]
+    },
+    "Regidrago": {
+        "min_cp": 2022, "max_cp": 2115, "min_cp_weather": 2528, "max_cp_weather": 2644,
+        "types": ["Dragon"], "weaknesses": ["Ice", "Dragon", "Fairy"]
+    },
+    "Calyrex (Ice Rider)": {
+        "min_cp": 2105, "max_cp": 2188, "min_cp_weather": 2627, "max_cp_weather": 2735,
+        "types": ["Psychic", "Ice"], "weaknesses": ["Fire", "Dark", "Steel", "Ghost"]
+    },
+    "Calyrex (Shadow Rider)": {
+        "min_cp": 2099, "max_cp": 2185, "min_cp_weather": 2624, "max_cp_weather": 2731,
+        "types": ["Psychic", "Ghost"], "weaknesses": ["Ghost", "Dark"]
+    },
+    "Darkrai": {
+        "min_cp": 2048, "max_cp": 2136, "min_cp_weather": 2560, "max_cp_weather": 2671,
+        "types": ["Dark"], "weaknesses": ["Fighting", "Bug", "Fairy"]
+    },
+    "Deoxys (Normal Forme)": {
+        "min_cp": 1717, "max_cp": 1806, "min_cp_weather": 2147, "max_cp_weather": 2257,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Deoxys (Attack Forme)": {
+        "min_cp": 1474, "max_cp": 1568, "min_cp_weather": 1842, "max_cp_weather": 1960,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Deoxys (Defense Forme)": {
+        "min_cp": 1228, "max_cp": 1299, "min_cp_weather": 1535, "max_cp_weather": 1624,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Deoxys (Speed Forme)": {
+        "min_cp": 1570, "max_cp": 1645, "min_cp_weather": 1962, "max_cp_weather": 2056,
+        "types": ["Psychic"], "weaknesses": ["Bug", "Ghost", "Dark"]
+    },
+    "Genesect (Normal Drive)": {
+        "min_cp": 1916, "max_cp": 2005, "min_cp_weather": 2395, "max_cp_weather": 2506,
+        "types": ["Bug", "Steel"], "weaknesses": ["Fire"]
+    },
+    "Genesect (Burn Drive)": {
+        "min_cp": 1916, "max_cp": 2005, "min_cp_weather": 2395, "max_cp_weather": 2506,
+        "types": ["Bug", "Steel"], "weaknesses": ["Fire"]
+    },
+    "Genesect (Chill Drive)": {
+        "min_cp": 1916, "max_cp": 2005, "min_cp_weather": 2395, "max_cp_weather": 2506,
+        "types": ["Bug", "Steel"], "weaknesses": ["Fire"]
+    },
+    "Genesect (Douse Drive)": {
+        "min_cp": 1916, "max_cp": 2005, "min_cp_weather": 2395, "max_cp_weather": 2506,
+        "types": ["Bug", "Steel"], "weaknesses": ["Fire"]
+    },
+    "Genesect (Shock Drive)": {
+        "min_cp": 1916, "max_cp": 2005, "min_cp_weather": 2395, "max_cp_weather": 2506,
+        "types": ["Bug", "Steel"], "weaknesses": ["Fire"]
+    },
+    "Hoopa (Confined)": {
+        "min_cp": 1810, "max_cp": 1881, "min_cp_weather": 2263, "max_cp_weather": 2352,
+        "types": ["Psychic", "Ghost"], "weaknesses": ["Ghost", "Dark"]
+    },
+    "Hoopa (Unbound)": {
+        "min_cp": 2200, "max_cp": 2296, "min_cp_weather": 2750, "max_cp_weather": 2870,
+        "types": ["Psychic", "Dark"], "weaknesses": ["Bug", "Fairy"]
+    },
+    "Nihilego": {
+        "min_cp": 2165, "max_cp": 2256, "min_cp_weather": 2706, "max_cp_weather": 2821,
+        "types": ["Rock", "Poison"], "weaknesses": ["Psychic", "Steel", "Ground", "Water"]
+    },
+    "Buzzwole": {
+        "min_cp": 1873, "max_cp": 1951, "min_cp_weather": 2341, "max_cp_weather": 2439,
+        "types": ["Bug", "Fighting"], "weaknesses": ["Flying", "Fire", "Psychic", "Fairy"]
+    },
+    "Pheromosa": {
+        "min_cp": 1589, "max_cp": 1676, "min_cp_weather": 1986, "max_cp_weather": 2095,
+        "types": ["Bug", "Fighting"], "weaknesses": ["Flying", "Fire", "Psychic", "Fairy"]
+    },
+    "Xurkitree": {
+        "min_cp": 2052, "max_cp": 2139, "min_cp_weather": 2565, "max_cp_weather": 2674,
+        "types": ["Electric"], "weaknesses": ["Ground"]
+    },
+    "Celesteela": {
+        "min_cp": 1700, "max_cp": 1784, "min_cp_weather": 2125, "max_cp_weather": 2230,
+        "types": ["Steel", "Flying"], "weaknesses": ["Electric", "Fire"]
+    },
+    "Kartana": {
+        "min_cp": 2052, "max_cp": 2137, "min_cp_weather": 2565, "max_cp_weather": 2671,
+        "types": ["Grass", "Steel"], "weaknesses": ["Fire", "Fighting"]
+    },
+    "Guzzlord": {
+        "min_cp": 1528, "max_cp": 1608, "min_cp_weather": 1910, "max_cp_weather": 2010,
+        "types": ["Dark", "Dragon"], "weaknesses": ["Fairy", "Bug", "Dragon", "Fighting", "Ice"]
+    },
+
+    }
+}
