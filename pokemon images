@@ -1,0 +1,13 @@
+pokemon_images = {
+    "Alolan Geodude": "https://img.pokemondb.net/sprites/x-y/shiny/geodude.png",
+    "Omanyte": "https://img.pokemondb.net/sprites/home/shiny/omanyte.png",
+    "Kabuto": "https://img.pokemondb.net/sprites/x-y/shiny/kabuto.png",
+    "Larvitar": "https://img.pokemondb.net/sprites/x-y/shiny/larvitar.png",
+    "Rockruff": "https://img.pokemondb.net/sprites/ultra-sun-ultra-moon/shiny/rockruff.png",
+    "Onix": "https://img.pokemondb.net/sprites/x-y/shiny/onix.png",
+    "Aerodactyl": "https://img.pokemondb.net/sprites/x-y/shiny/aerodactyl.png",
+    "Nosepass": "https://img.pokemondb.net/sprites/x-y/shiny/nosepass.png",
+    "Medicham": "https://img.pokemondb.net/sprites/x-y/shiny/medicham.png",
+    "Regirock": "https://img.pokemondb.net/sprites/x-y/shiny/regirock.png",
+    "Mega Gyarados": "https://img.pokemondb.net/sprites/x-y/shiny/gyarados-mega.png"
+}
