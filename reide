@@ -1,4 +1,4 @@
-{
+pokemon_info = {
     "Articuno": {
         "min_cp": 1676, "max_cp": 1763, "min_cp_weather": 2095, "max_cp_weather": 2204,
         "types": ["Ice", "Flying"], "weaknesses": ["Fire", "Electric", "Rock", "Steel"]
